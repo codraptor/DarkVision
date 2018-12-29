@@ -1,0 +1,6 @@
+classes=2
+train  = /home/rishubhngp/Desktop/ocr/darknet/data/checkbox2/train.list
+valid  = /home/rishubhngp/Desktop/ocr/darknet/data/checkbox2/test.list
+labels = /home/rishubhngp/Desktop/ocr/darknet/data/checkbox2/labels.txt
+backup = /home/rishubhngp/Desktop/ocr/darknet/data/checkbox2/backup/
+top=2
